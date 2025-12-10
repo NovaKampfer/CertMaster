@@ -1,0 +1,53 @@
+Privacy Policy for CertMaster
+Last Updated: December 09, 2025
+
+CertMaster ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your information is collected, used, and disclosed by CertMaster.
+
+By accessing or using our mobile application, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy.
+
+1. Information We Collect
+We do not require you to create an account or provide a name/email address to use the application. However, we do collect certain data to facilitate app functionality and monetization.
+
+A. Device & Usage Data We may collect information about your mobile device and internet connection, including the device's unique device identifier, IP address, operating system, and browser type. This data is collected automatically via third-party services (see Section 3).
+
+B. Purchase Information All financial transactions are handled directly by Google Play. We do not process, store, or have access to your credit card numbers or bank account details. We only receive a transaction receipt/token from Google to confirm that a purchase was made.
+
+2. How We Use Your Information
+We use the information we collect for the following purposes:
+
+To provide and maintain the App's functionality (e.g., tracking your quiz progress and credits locally).
+
+To process and verify your in-app purchases and subscriptions.
+
+To serve advertisements (Interstitial and Rewarded ads).
+
+To monitor the usage of our App and detect, prevent, and address technical issues.
+
+3. Third-Party Services
+We use third-party services that may collect information used to identify you. The following links provide access to the privacy policies of the third-party service providers used by the app:
+
+Google Play Services: https://policies.google.com/privacy
+
+AdMob (Google): Used to display advertisements. AdMob may use your device advertising ID to serve personalized ads based on your interests. https://policies.google.com/technologies/ads
+
+Google Analytics for Firebase: Used to analyze user behavior and app performance. https://firebase.google.com/policies/analytics
+
+Firebase Crashlytics: Used to collect crash reports to help us fix bugs.
+
+4. Data Retention
+Local Data: Your quiz progress, "seen questions," and credit balance are stored locally on your device using Android DataStore. If you uninstall the app or clear the app data, this information will be lost permanently.
+
+Cloud Data: We do not store personal user profiles on our servers. Purchase tokens are validated via Google Play.
+
+5. Children’s Privacy
+Our services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to perform necessary actions.
+
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted.
+
+7. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+
+Email: Baerg.matthew@gmail.com
+
+Developer: Matthew Baerg
